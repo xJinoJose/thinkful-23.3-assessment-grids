@@ -10,7 +10,7 @@ Desktop view
 
 On a desktop, your website should look similar to the following. You can use the md breakpoint when deciding upon classes.
 
-desktop.png
+![Alt text](desktop.png "a title")
 Mobile view
 
 On a smaller device, your layout should look similar to the following.
