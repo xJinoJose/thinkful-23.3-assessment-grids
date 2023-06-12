@@ -25,3 +25,5 @@ You must complete this challenge on your own machine, in VSCode, before uploadin
 
     Reference the related lesson for help on completing this practice problem.
 
+### GitHub Page
+https://xjinojose.github.io/thinkful-23.3-assessment-grids/
