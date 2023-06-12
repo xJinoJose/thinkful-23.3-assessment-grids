@@ -20,7 +20,8 @@ On a smaller device, your layout should look similar to the following.
 ## Note
 You can ignore the automated test suite for this assessment, because Qualified does not support testing CSS.
 You must complete this challenge on your own machine, in VSCode, before uploading it to Qualified.
-Tips
+
+### Tips
 
     Reference the related lesson for help on completing this practice problem.
 
