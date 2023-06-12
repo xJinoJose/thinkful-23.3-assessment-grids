@@ -17,7 +17,7 @@ On a smaller device, your layout should look similar to the following.
 
 ![Alt text](mobile.png "a title")
 
-##Note
+## Note
 You can ignore the automated test suite for this assessment, because Qualified does not support testing CSS.
 You must complete this challenge on your own machine, in VSCode, before uploading it to Qualified.
 Tips
