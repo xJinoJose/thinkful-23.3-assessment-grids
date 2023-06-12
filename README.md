@@ -1,11 +1,26 @@
 # think-assessment-grids
 
-### Execution Environment
+CSS frameworks: Grids
+Instructions
 
-The code for this project is ran using Node 10, with Jest as the test framework. [Puppeteer](https://github.com/smooth-code/jest-puppeteer) is provided to allow tests to be ran against HTML files.
+To complete this assessment, you will need to build a website with two rows and a total of six columns. There are two different views you will need to build depending on the screen size.
 
-All HTML files and assets are bundled by the [Parcel JS bundler](https://parceljs.org/). HTML, JS and CSS are allowed. SCSS, LESS, Stylus are not supported.
+An h2 element has been included for you that includes some styling. Place the h2 inside of each column, updating the numbers to match with the screenshot.
+Desktop view
 
-### Customization
+On a desktop, your website should look similar to the following. You can use the md breakpoint when deciding upon classes.
 
-You are not able to customize the environment any further than what comes already pre-loaded.
+desktop.png
+Mobile view
+
+On a smaller device, your layout should look similar to the following.
+
+mobile.png
+Note
+
+You can ignore the automated test suite for this assessment, because Qualified does not support testing CSS.
+You must complete this challenge on your own machine, in VSCode, before uploading it to Qualified.
+Tips
+
+    Reference the related lesson for help on completing this practice problem.
+
