@@ -1,4 +1,4 @@
-# think-assessment-grids
+# Thinkful 23.3 Grids Assessment
 
 ### CSS frameworks: Grids
 ### Instructions
