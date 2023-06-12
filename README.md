@@ -15,7 +15,7 @@ Mobile view
 
 On a smaller device, your layout should look similar to the following.
 
-mobile.png
+![Alt text](mobile.png "a title")
 Note
 
 You can ignore the automated test suite for this assessment, because Qualified does not support testing CSS.
